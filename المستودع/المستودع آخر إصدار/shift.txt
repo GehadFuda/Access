@@ -1,0 +1,3 @@
+If [n1] = "ÌוÇÏ" And [n2] = "123456789" Then
+DoCmd.OpenForm "shift", acNormal
+DoCmd.Close acForm, "ÏÎזב ÇבדÓÊÎÏדםה"
